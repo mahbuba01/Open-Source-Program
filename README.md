@@ -36,18 +36,18 @@ The only difference between "GSoC & GSoD" programs:
 # Microsoft Imagine Cup Competition
 -> Every year Microsoft hosts this contest. It is a global tech competition.
 
-• Anyone 18 years or older can participate. However, students under 18 can participate in the Microsoft Imagine Cup Junior contest.
-• Teams are made up of 1 to 4 members, and the team leader must have a LinkedIn profile.
-• Awards (Gold/Silver/Bronze), certificates, prize money, along with mentorship opportunities from Microsoft's expert mentors. There is even an exclusive mentorship session with Satya Nadella, CEO of Microsoft!
-• There is no registration fee; you can register for free!   
+1. Anyone 18 years or older can participate. However, students under 18 can participate in the Microsoft Imagine Cup Junior contest.
+2. Teams are made up of 1 to 4 members, and the team leader must have a LinkedIn profile.
+3. Awards (Gold/Silver/Bronze), certificates, prize money, along with mentorship opportunities from Microsoft's expert mentors. There is even an exclusive mentorship session with Satya Nadella, CEO of Microsoft!
+4. There is no registration fee; you can register for free!   
 
 # Alibaba Summer of Code (AliSoC/ASoC)
 -> Alibaba Summer of Code's a global program focused on engaging students directly in open source software development.
 
 1. Gets:
-    • Scholarship from Alibaba,
-    • Open-source contributor certificate,
-    • Alibaba Internship/Recruitment.
+     Scholarship from Alibaba,
+     Open-source contributor certificate,
+     Alibaba Internship/Recruitment.
 2. Duration: 12 weeks
 3. Application Period: March - April
 4. Project Period: May - August
