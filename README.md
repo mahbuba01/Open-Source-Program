@@ -41,6 +41,28 @@ The only difference between "GSoC & GSoD" programs:
 3. Awards (Gold/Silver/Bronze), certificates, prize money, along with mentorship opportunities from Microsoft's expert mentors. There is even an exclusive mentorship session with Satya Nadella, CEO of Microsoft!
 4. There is no registration fee; you can register for free!   
 
+# Major League Hacking Fellowship Program: 12 weeks internship
+
+Programs :
+Software Engineering (SWE)
+Site Reliability Engineering (SRE)
+Web3 Engineering
+
+This program opens three times a year for applications:
+Fall A: (September - December), Fall B: (October - January)
+Spring A: (January - April), Spring B: (February - May)
+Summer A: (May - August), Summer B: (June - September)
+
+Requirements :
+1. Be at least 18 years of age.
+2. Able to commit at least 20 hours per week to this program.
+3. Know how to code in at least one language.
+4. Have participated in at least one MLH Hackathon.
+5. Must have this accounts: Resume, GitHub, LinkedIn, and Portfolio.
+6. Application Process: Form Fillup > Submit > Interview > Enroll.
+
+If you can secure a fellowship here, it creates a great opportunity to intern at top-tier companies afterward.
+
 # Alibaba Summer of Code (AliSoC/ASoC)
 -> Alibaba Summer of Code's a global program focused on engaging students directly in open source software development.
 
