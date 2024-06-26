@@ -44,14 +44,14 @@ The only difference between "GSoC & GSoD" programs:
 # Major League Hacking Fellowship Program: 12 weeks internship
 
 Programs :
-Software Engineering (SWE)
-Site Reliability Engineering (SRE)
-Web3 Engineering
+1. Software Engineering (SWE)
+2. Site Reliability Engineering (SRE)
+3. Web3 Engineering
 
 This program opens three times a year for applications:
-Fall A: (September - December), Fall B: (October - January)
-Spring A: (January - April), Spring B: (February - May)
-Summer A: (May - August), Summer B: (June - September)
+1. Fall A: (September - December), Fall B: (October - January)
+2. Spring A: (January - April), Spring B: (February - May)
+3. Summer A: (May - August), Summer B: (June - September)
 
 Requirements :
 1. Be at least 18 years of age.
