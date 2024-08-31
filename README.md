@@ -129,7 +129,7 @@ Git Cheat Sheet কমেন্ট সেকশনে দেয়া আছে।
 
 4. ইন্টারেস্ট এবং স্কিল অনুযায়ী প্রজেক্ট বা সফটওয়্যার খুঁজে বের করে কোডবেসের সাথে পরিচিত হওয়ার পর নতুন Feature Add, Bug/Issue ফিক্সড, ডকুমেন্টেশন আপডেট এগুলো নিয়ে Issue-create করবেন। 
 
-   Here're some resources for finding beginner-friendly issues: (ওয়েবসাইট লিংক কমেন্ট সেকশনে দেয়া হয়েছে)
+Here're some resources for finding beginner-friendly issues: (ওয়েবসাইট লিংক কমেন্ট সেকশনে দেয়া হয়েছে)
 
 1. Up For Grabs
 2. 24 Pull Requests
