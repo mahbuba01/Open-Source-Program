@@ -95,4 +95,47 @@ If you can secure a fellowship here, it creates a great opportunity to intern at
 3. Application Period: January - February
 4. Project Period: June - August
 
-   
+# Open-Source Contribution:
+কোনো প্রজেক্ট বা সফটওয়্যারে কোড কন্ট্রিবিউট করা। কোড কন্ট্রিবিউশন ছাড়া আরো কিছু উপায়ে কন্ট্রিবিউট করা যায়, যাকে No-Code Contribution বলে। যেমন: Documentation, UI/UX feedback, Content creation, Community management, Translating project materials & Organizing events etc.
+
+জনপ্রিয় কিছু ওপেন-সোর্স সফটওয়্যারঃ Linux OS, Android, Mozilla Firefox, Chromium (Google Chrome & Microsoft Edge), VSCode.
+
+⭕ কিভাবে ওপেন-সোর্স কন্ট্রিবিউশন করা যায় ??
+
+1. প্রজেক্ট বা সফটওয়্যারে নতুন Feature Add করা, Fixing bugs, Maintainer হয়ে কোড রিভিউ করা অথবা কোড রিভিউয়ে সাহায্য করা, টেস্টিং করা, Documentation আপডেট করা, UI/UX এবং System Improvement ফিডব্যাক দেয়া, প্রজেক্ট বা সফটওয়্যার নিয়ে ভিডিও অথবা কন্টেন্ট তৈরি করা।
+
+2. একটি ওপেন-সোর্স প্রজেক্ট বা সফটওয়্যারে একজন অথবা অনেকজন Maintainer থাকে, যাদের কাছে প্রজেক্টের সব Access থাকে। এখানে সাধারণত Main Repo ফর্ক অথবা ক্লোন করে কন্ট্রিবিউট করতে হয়। পারসোনাল ব্রাঞ্চ ওপেন করে সেখানে কোড রেখে তারপর PR (Pull Request) দিতে হয়। Maintainer কোড রিভিউ করে যদি দেখে সেটা গ্রহণযোগ্য তাহলে কোডটি Main ব্রাঞ্চে Merge করে এবং কোনো ফিডব্যাক থাকলেও সেটা দেয়। 
+
+⭕ ওপেন-সোর্স কন্ট্রিবিউশনের বেনিফিটস ??
+
+1. যেহেতু এখানে Readable এবং Scalable (Performance, Functional, Architectural) কোড লিখতে হয়, That's means কোডিং দক্ষতা বাড়বে।
+
+2. এই কন্ট্রিবিউশনের মাধ্যমে নতুন নতুন Technology নিয়ে আইডিয়া পাওয়া যাবে এবং এই Technologies কিভাবে "Industry Standard" প্রজেক্টের মধ্যে Use করতে হয় সেটা জানা যায় (Industry Expert/Maintainer এটা নিয়ে ফিডব্যাক দিয়ে থাকে)।
+
+3. নেটওয়ার্কিংয়ে সাহায্য করে, যেমন অনেক সময় এটার মাধ্যমে ডিরেক্ট জব অফারও পাওয়া যায়। নেটওয়ার্কিং ছাড়াও Analytical thinking, টিম ওয়ার্ক, লিডারশিপের মতো বিভিন্ন দক্ষতা অর্জন করা যায়। 
+
+4. CV/Resume or Portfolio এর মধ্যে এটা হাইলাইট করে Easily জব Crack করা যায়। 
+
+⭕ কন্ট্রিবিউটর হওয়ার জন্য কিভাবে প্রিপারেশন নিতে হবে ??
+
+1. যেকোনো একটি Programming language শিখতে হবে এবং যেকোনো একটি শিখলেই পরবর্তী প্রয়োজনে অন্য কোনো Language সহজেই শিখতে পারবেন। তবে ডকুমেন্টেশন, অনুবাদ ইত্যাদির জন্য প্রোগ্রামিংয়ের প্রয়োজন হয় না।
+
+2. Version Control Systems (VCS): There're many VCS such as Git, Mercurial, CVS, SVN etc. But Git's the most popular & widely used! (তাই গিট শিখতে হবে)
+Git Cheat Sheet কমেন্ট সেকশনে দেয়া আছে। 
+
+    গিটের জন্য কিছু কোড হোস্টিং প্ল্যাটফর্ম আছে। যেমনঃ GitHub, GitLab, Bitbucket, Azure Repos, SourceForge etc.
+
+3. Documentation: ভালো ডকুমেন্টেশন লেখার স্কিল থাকতে হবে। 
+
+4. ইন্টারেস্ট এবং স্কিল অনুযায়ী প্রজেক্ট বা সফটওয়্যার খুঁজে বের করে কোডবেসের সাথে পরিচিত হওয়ার পর নতুন Feature Add, Bug/Issue ফিক্সড, ডকুমেন্টেশন আপডেট এগুলো নিয়ে Issue-create করবেন। 
+
+   Here're some resources for finding beginner-friendly issues: (ওয়েবসাইট লিংক কমেন্ট সেকশনে দেয়া হয়েছে)
+
+1. Up For Grabs
+2. 24 Pull Requests
+3. Hacktoberfest
+4. First Timers Only
+5. Your First PR
+6. CodeTriage
+7. Open Source Friday
+
