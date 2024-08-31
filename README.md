@@ -1,5 +1,5 @@
 # Google Summer of Code (GSoC)
--> This's an open-source program organised by Google where students and non-students take part in open source by building either short-term or long-term projects!
+This's an open-source program organised by Google where students and non-students take part in open source by building either short-term or long-term projects!
 
 1. Get paid:
     Short-term projects: $1500 
@@ -11,7 +11,7 @@
 6. Project Period: May - August
 
 # Google Season of Docs (GSoD)
--> This's an open-source program organized by Google for technical writers. It follows the same pattern as the Google Summer of Code(GSoC). Qualified participants write for organizations!
+This's an open-source program organized by Google for technical writers. It follows the same pattern as the Google Summer of Code(GSoC). Qualified participants write for organizations!
 
 1. Stipend: $3000 - $6600 
 2. Duration: 12 weeks
@@ -24,7 +24,7 @@ The only difference between "GSoC & GSoD" programs:
 2. GSoD focuses on technical documentation & technical writing-based contributions.
 
 # Reinforcement Learning Open Source Fest
--> This's a program organized by Microsoft, where qualified participants engage in building programs and documentation, amongst others.
+This's a program organized by Microsoft, where qualified participants engage in building programs and documentation, amongst others.
 
 1. Stipend: $10,000
 2. Duration: 4 months
@@ -34,7 +34,7 @@ The only difference between "GSoC & GSoD" programs:
               September - December.
 
 # Microsoft Imagine Cup Competition
--> Every year Microsoft hosts this contest. It is a global tech competition.
+Every year Microsoft hosts this contest. It is a global tech competition.
 
 1. Anyone 18 years or older can participate. However, students under 18 can participate in the Microsoft Imagine Cup Junior contest.
 2. Teams are made up of 1 to 4 members, and the team leader must have a LinkedIn profile.
@@ -64,7 +64,7 @@ Requirements :
 If you can secure a fellowship here, it creates a great opportunity to intern at top-tier companies afterward.
 
 # Alibaba Summer of Code (AliSoC/ASoC)
--> Alibaba Summer of Code's a global program focused on engaging students directly in open source software development.
+Alibaba Summer of Code's a global program focused on engaging students directly in open source software development.
 
 1. Gets:
      Scholarship from Alibaba,
@@ -76,8 +76,8 @@ If you can secure a fellowship here, it creates a great opportunity to intern at
 
 ⭕ How to apply: ওয়েবসাইটে গিয়ে Submission Portal -> Proposal Submit করতে হবে। 
 
-#  Linux Foundation(LFX) Mentorship Program
--> This's a program organized by the Linux Foundation for all aspiring Linux developers. Mentees get the opportunity to learn from experienced open source contributors as a segue to get internship & job opportunities upon graduation.
+# Linux Foundation(LFX) Mentorship Program
+This's a program organized by the Linux Foundation for all aspiring Linux developers. Mentees get the opportunity to learn from experienced open source contributors as a segue to get internship & job opportunities upon graduation.
 
 1. Stipend: Depending on the country.
 2. Duration: 12 weeks
@@ -87,8 +87,8 @@ If you can secure a fellowship here, it creates a great opportunity to intern at
    Mid-April(Summer),
    Mid-July(Fall).
 
- # LFN Mentorship Program
--> This's a program organized by the Linux Foundation for all aspiring Linux developers. The selected participants get to partake in an open-source project by working on Linux projects.
+# LFN Mentorship Program
+This's a program organized by the Linux Foundation for all aspiring Linux developers. The selected participants get to partake in an open-source project by working on Linux projects.
 
 1. Stipend: Each mentee gets paid
 2. Duration: 12 weeks
