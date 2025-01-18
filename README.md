@@ -105,7 +105,7 @@ This's a program organized by the Linux Foundation for all aspiring Linux develo
 1. প্রজেক্ট বা সফটওয়্যারে নতুন Feature Add করা, Fixing bugs, Maintainer হয়ে কোড রিভিউ করা অথবা কোড রিভিউয়ে সাহায্য করা, টেস্টিং করা, Documentation আপডেট করা, UI/UX এবং System Improvement ফিডব্যাক দেয়া, প্রজেক্ট বা সফটওয়্যার নিয়ে ভিডিও অথবা কন্টেন্ট তৈরি করা।
 
 2. একটি ওপেন-সোর্স প্রজেক্ট বা সফটওয়্যারে একজন অথবা অনেকজন Maintainer থাকে, যাদের কাছে প্রজেক্টের সব Access থাকে। এখানে সাধারণত Main Repo ফর্ক অথবা ক্লোন করে কন্ট্রিবিউট করতে হয়। পারসোনাল ব্রাঞ্চ ওপেন করে সেখানে কোড রেখে তারপর PR (Pull Request) দিতে হয়। Maintainer কোড রিভিউ করে যদি দেখে সেটা গ্রহণযোগ্য তাহলে কোডটি Main ব্রাঞ্চে Merge করে এবং কোনো ফিডব্যাক থাকলেও সেটা দেয়।
-2.1. Step: How to Contribute ??
+★ Step: How to Contribute ??
 1. Fork the Repository
 2. Clone the Forked Repository: Copy the clone URL from the forked repository and use the command "git clone <forked-repository-url>" in the terminal to clone the repository.
 3. Make Changes: After cloning, open your text editor and add your information to the files.
