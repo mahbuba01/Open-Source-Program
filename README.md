@@ -129,8 +129,7 @@ This's a program organized by the Linux Foundation for all aspiring Linux develo
 
 1. যেকোনো একটি Programming language শিখতে হবে এবং যেকোনো একটি শিখলেই পরবর্তী প্রয়োজনে অন্য কোনো Language সহজেই শিখতে পারবেন। তবে ডকুমেন্টেশন, অনুবাদ ইত্যাদির জন্য প্রোগ্রামিংয়ের প্রয়োজন হয় না।
 
-2. Version Control Systems (VCS): There're many VCS such as Git, Mercurial, CVS, SVN etc. But Git's the most popular & widely used! (তাই গিট শিখতে হবে)
-Git Cheat Sheet কমেন্ট সেকশনে দেয়া আছে। 
+2. Version Control Systems (VCS): There're many VCS such as Git, Mercurial, CVS, SVN etc. But Git's the most popular & widely used! (তাই গিট শিখতে হবে) 
 
     গিটের জন্য কিছু কোড হোস্টিং প্ল্যাটফর্ম আছে। যেমনঃ GitHub, GitLab, Bitbucket, Azure Repos, SourceForge etc.
 
@@ -138,7 +137,7 @@ Git Cheat Sheet কমেন্ট সেকশনে দেয়া আছে।
 
 4. ইন্টারেস্ট এবং স্কিল অনুযায়ী প্রজেক্ট বা সফটওয়্যার খুঁজে বের করে কোডবেসের সাথে পরিচিত হওয়ার পর নতুন Feature Add, Bug/Issue ফিক্সড, ডকুমেন্টেশন আপডেট এগুলো নিয়ে Issue-create করবেন। 
 
-Here're some resources for finding beginner-friendly issues: (ওয়েবসাইট লিংক কমেন্ট সেকশনে দেয়া হয়েছে)
+Here're some resources for finding beginner-friendly issues:
 
 1. Up For Grabs
 2. 24 Pull Requests
