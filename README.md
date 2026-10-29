@@ -106,7 +106,7 @@ This's a program organized by the Linux Foundation for all aspiring Linux develo
 
 2. একটি ওপেন-সোর্স প্রজেক্ট বা সফটওয়্যারে একজন অথবা অনেকজন Maintainer থাকে, যাদের কাছে প্রজেক্টের সব Access থাকে। এখানে সাধারণত Main Repo ফর্ক অথবা ক্লোন করে কন্ট্রিবিউট করতে হয়। পারসোনাল ব্রাঞ্চ ওপেন করে সেখানে কোড রেখে তারপর PR (Pull Request) দিতে হয়। Maintainer কোড রিভিউ করে যদি দেখে সেটা গ্রহণযোগ্য তাহলে কোডটি Main ব্রাঞ্চে Merge করে এবং কোনো ফিডব্যাক থাকলেও সেটা দেয়।
 
-#### Step: How to Contribute ??
+### Step: How to Contribute ?
 1. Fork the Repository
 2. Clone the Forked Repository: Copy the clone URL from the forked repository and use the command "git clone <forked-repository-url>" in the terminal to clone the repository.
 3. Make Changes: After cloning, open your text editor and add your information to the files.
@@ -115,7 +115,7 @@ This's a program organized by the Linux Foundation for all aspiring Linux develo
 6. Create a Pull Request: Go to GitHub, create a "Pull Request" from your forked repository, write a description and send the PR to repo owner.
 7. Wait for Merge: Wait for the repository owner to review and accept your PR; once accepted, your changes will be merged.
 
-ওপেন-সোর্স কন্ট্রিবিউশনের বেনিফিটস ?
+#### ওপেন-সোর্স কন্ট্রিবিউশনের বেনিফিটস ?
 
 1. যেহেতু এখানে Readable এবং Scalable (Performance, Functional, Architectural) কোড লিখতে হয়, That's means কোডিং দক্ষতা বাড়বে।
 
@@ -125,7 +125,7 @@ This's a program organized by the Linux Foundation for all aspiring Linux develo
 
 4. CV/Resume or Portfolio এর মধ্যে এটা হাইলাইট করে Easily জব Crack করা যায়। 
 
-কন্ট্রিবিউটর হওয়ার জন্য কিভাবে প্রিপারেশন নিতে হবে ?
+#### কন্ট্রিবিউটর হওয়ার জন্য কিভাবে প্রিপারেশন নিতে হবে ?
 
 1. যেকোনো একটি Programming language শিখতে হবে এবং যেকোনো একটি শিখলেই পরবর্তী প্রয়োজনে অন্য কোনো Language সহজেই শিখতে পারবেন। তবে ডকুমেন্টেশন, অনুবাদ ইত্যাদির জন্য প্রোগ্রামিংয়ের প্রয়োজন হয় না।
 
@@ -137,7 +137,7 @@ This's a program organized by the Linux Foundation for all aspiring Linux develo
 
 4. ইন্টারেস্ট এবং স্কিল অনুযায়ী প্রজেক্ট বা সফটওয়্যার খুঁজে বের করে কোডবেসের সাথে পরিচিত হওয়ার পর নতুন Feature Add, Bug/Issue ফিক্সড, ডকুমেন্টেশন আপডেট এগুলো নিয়ে Issue-create করবেন। 
 
-Here're some resources for finding beginner-friendly issues:
+#### Here're some resources for finding beginner-friendly issues
 
 1. Up For Grabs
 2. 24 Pull Requests
